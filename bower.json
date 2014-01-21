@@ -1,0 +1,15 @@
+{
+  "name": "angular-jsonrpc",
+  "version": "0.2.0",
+  "main": "build/jsonrpc.js",
+  "ignore": [
+    "node_modules",
+    "**/.*",
+    "components"
+  ],
+  "devDependencies": {
+    "angular": "~1.0.7",
+    "angular-mocks": "~1.0.7",
+    "angular-uuid": "~0.1.0"
+  }
+}
