@@ -4,7 +4,6 @@
   "main": "jsonrpc.min.js",
   "dependencies": {
     "angular": "~1.0.7",
-    "angular-mocks": "~1.0.7",
     "angular-uuid": "~0.1.0"
   },
   "repository": {
