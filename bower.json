@@ -1,15 +1,13 @@
 {
   "name": "angular-jsonrpc",
   "version": "0.2.0",
-  "main": "build/jsonrpc.js",
-  "ignore": [
-    "node_modules",
-    "**/.*",
-    "components"
-  ],
-  "devDependencies": {
+  "main": "jsonrpc.min.js",
+  "dependencies": {
     "angular": "~1.0.7",
     "angular-mocks": "~1.0.7",
     "angular-uuid": "~0.1.0"
-  }
-}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ngyewch/bower-angular-jsonrpc.git"
+  }}
